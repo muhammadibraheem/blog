@@ -1,7 +1,7 @@
 title: Muhammad Ibraheem 
 description: Blog by Muhammad Ibraheem Software Engineer
 
-url: http://muhammadibraheem.github.com/
+url: http://muhammadibraheem.github.com
 baseurl: "/blog"
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
