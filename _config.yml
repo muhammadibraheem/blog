@@ -1,8 +1,8 @@
 title: Muhammad Ibraheem 
-description: "Blog by Muhammad Ibraheem Software Engineer"
+description: Blog by Muhammad Ibraheem Software Engineer
 
-url: "http://muhammadibraheem.github.com/blog"
-baseurl: "/blog/"
+url: http://muhammadibraheem.github.com/blog
+baseurl: "/blog"
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
