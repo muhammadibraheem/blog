@@ -3,8 +3,8 @@ description: Blog by Muhammad Ibraheem Software Engineer
 
 url: http://muhammadibraheem.me
 baseurl: "muhammadibraheem.me"
-paginate_path: "blog/page:num/"
-permalink: blog/:title/
+paginate_path: "page:num/"
+permalink: /:title/
 
 markdown: kramdown
 highlighter: rouge
